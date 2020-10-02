@@ -1,7 +1,5 @@
 #Column1 {
  text-align: left;
- margin: 0 !important;
- padding: 0 !important;
  }
 
  #Column2 {
@@ -37,7 +35,7 @@ head {
   h1 {
     margin-top: 0;
     margin-bottom: 0;
-    text-align: center !important;
+    text-align: center;
     background-color: #f75990;
   }
 
@@ -48,7 +46,7 @@ head {
   h2 {
     margin-top: 0;
     background-color: #0049B7;
-    text-align: center !important;
+    text-align: center;
     margin-bottom: 0;
     color: yellow;
   }
@@ -56,7 +54,7 @@ head {
   h4 {
     margin-top: 0;
     background-color: #0049B7;
-    text-align: center !important;
+    text-align: center;
     margin-bottom: 0;
     color: yellow;
   }
