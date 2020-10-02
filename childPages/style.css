@@ -12,6 +12,10 @@
    text-align: right;
  }
 
+ #Column4 {
+   text-align: left;
+ }
+
 footer {
   text-align: center;
   background-color: #00DDFF;
